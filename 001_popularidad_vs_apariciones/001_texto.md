@@ -4,6 +4,6 @@ Las redes sociales traen una transformación en la percepción de la popularidad
 
 Se observa un fenómeno al comparar la popularidad en redes de Manuel Medrano con 14 millones de views en YouTube contra Providencia con 1 millón, donde pareciera que Medrano es 14 veces más popular que providencia, pero en el territorio los proyectos se comportan bastante parejos.
 
-[Providencia vs Manuel Medrano]("images/providencia_vs_medrano.png")
+![Providencia vs Manuel Medrano](images/providencia_vs_medrano.png)
 
 La gráfica muestra como evoluciona en el tiempo la capacidad de los sitios en donde se presentan.
