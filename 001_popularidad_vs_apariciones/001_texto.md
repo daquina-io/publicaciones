@@ -24,4 +24,4 @@ Segundo caso donde presentamos a Lion Reggae con mas de 9 millones de vistas en 
 
 Y veamos a los cuatro integrados:
 
-![Manuel Medrano, Providencia, De Bruces a Mi, Lion Reggae](providencia_medrano_dbam_lion.png)
+![Manuel Medrano, Providencia, De Bruces a Mi, Lion Reggae](images/providencia_medrano_dbam_lion.png)
