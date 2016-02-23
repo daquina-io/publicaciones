@@ -5,14 +5,19 @@
   "contexto": {
     "ansiedad": "es labor del proyecto musical contribuir a la ansiedad por el click?",
     "oportunidad_unica": "antes de ser intermediados por las redes sociales",
-    "franja_media": "quizá la política de la gratuidad destrozo la franja media"
+    "franja_media": "quizá la política de la gratuidad destrozo la franja media",
+    "beneficios": {
+      "ingreso_pasivo": "las redes pueden generar ingresos sin estar presente\n",
+      "riesgo": "los conciertos dependen de la presencia, se ven detenidos los ingresos ante un accidente etc"
+    }
   },
   "plantear el problema": {
-    "exposicion": "Exponer la imagen hasta el cansancio, algo que puede agradar a una celebridad pero no es compatible con muchos proyectos",
+    "exposicion": "Exponer la imagen hasta el cansancio, algo que puede agradar a una celebridad pero no es compatible con muchos proyectos, contraparte, hay muchas maneras de monetizar sin exponer tanto la imagen según alejo",
     "ilusion": "falsa ilusión de popularidad, es tóxica porque genera la apariencia de una comunidad alrededor de las creaciones, pero quizá es una comunidad de intención mas no de hechos.",
-    "like": "El fenómeno positivista amplificado por Facebook donde solo hay la opción de expresión liviana de aprobación, muy seguramente usados por el primer circulo FFF (Family Friends Fools), quizá atrofia la capacidad de argumentar en contra, y para el creador de resolver la frustración."
+    "like": "El fenómeno positivista amplificado por Facebook donde solo hay la opción de expresión liviana de aprobación, muy seguramente usados por el primer circulo FFF (Family Friends Fools), quizá atrofia la capacidad de argumentar en contra, y para el creador de resolver la frustración.",
+    "": ""
   },
-  "investigacion": "",
+  "investigacion": "encontrar una relación entre popularidad y eventos",
   "conclusiones": "",
   "retos": ""
 }
