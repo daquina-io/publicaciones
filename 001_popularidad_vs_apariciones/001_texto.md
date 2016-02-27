@@ -1,5 +1,8 @@
 # Popularidad  vs. Apariciones
 
+Se relacionan valores recogidos por el sitio Next Big Sound con apariciones en el territorio.
+
+
 Las redes sociales traen una transformación en la percepción de la popularidad, para un proyecto musical puede ser frustrante sentirse muy popular en las redes sociales pero no tener asistencia a sus conciertos.
 
 La industria de la música esta intermediada por las redes sociales haciendo parecer esencial ser popular en ellas para lograr una masa critica de seguidores que permita la sostenibilidad financiera del proyecto.
