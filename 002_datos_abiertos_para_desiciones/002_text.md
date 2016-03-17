@@ -60,6 +60,7 @@ Para el desarrollo de la herramienta se busca apelar a mecanismos de colaboraci�
 
 Id – Venue – Event – Date – Capacity – Occupation – Price – Lineup –  Address – Start - End	 – Founder – Headliner – City - X- Y
 
+![Interfaz de geojson.io](./images/geoJson.png)
 Gráfico 2: Interfaz de geojson.io
 
  Fuente: Construcción propia
