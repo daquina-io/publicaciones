@@ -49,6 +49,7 @@ Por poner un ejemplo de uso, se tomó el caso dos proyectos musicales en el gén
 
 Lion Reggae cuenta con un número generoso de vistas en su canal de Youtube, 9.002.433 al 15 de enero del 2016, pareciera cinco veces más popular que Providencia quien tiene 1.635.745 vistas a la misma fecha, sin embargo el tamaño de los lugares en los que se presentó el último año[7] no hace eco de esta diferencia teniendo en cuenta la frecuencia de las apariciones y la capacidad de los lugares.
 
+![lion_reggae_vs_providencia](./images/lion_reggae_&_providencia.png)
 Gráfico 1: Apariciones de Lion Reggae vs. Providencia
 
 
