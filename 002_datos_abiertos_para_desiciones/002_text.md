@@ -68,7 +68,7 @@ Gráfico 2: Interfaz de geojson.io
 El mapa es almacenado en la plataforma GitHub que permite llevar un control histórico de versiones y tener aportes de manera distribuida. De esta manera cada colaborador tiene una copia y actualiza el repositorio de apariciones de proyectos musicales que es el que centraliza la información.
 Ver: https://github.com/son0p/apariciones_proyectos_musicales
 
-
+![Interfaz GitHub](./images/ui_github.png)
 Gráfico 3: Repositorio GitHub
 
 
@@ -99,6 +99,8 @@ Este tipo de información, y toda aquella que pueda ser útil a los managers y c
 
 ### Estudio de caso 2: Comparar un proyecto musical emergente con un artista masivo
 De manera rápida se comparó el desempeño de un artista masivo como Fonseca y un grupo emergente como Laura y la Máquina de escribir, se puede  ver su posición dentro del enjambre y notar sus variaciones.
+![Laura y la Máquina de Escribir vs. Fonseca](./images/timeline_fonseca_laura_y_la_maquina_de_escribir.png)
+
 Gráfico 5: Comparación artistas emergentes con artista masivo
 
 Fuente: Construcción propia
@@ -106,7 +108,7 @@ A continuación se muestran las presentaciones de los grupos seleccionados ubica
 
 
 
-
+![Algunos grupos independientes comparados con artista masivo](./images/mapa_grupos_indie_&_fonseca.png)
 
 Gráfico 6: Ubicación de las presentaciones
 
