@@ -49,6 +49,7 @@ Por poner un ejemplo de uso, se tomó el caso dos proyectos musicales en el gén
 
 Lion Reggae cuenta con un número generoso de vistas en su canal de Youtube, 9.002.433 al 15 de enero del 2016, pareciera cinco veces más popular que Providencia quien tiene 1.635.745 vistas a la misma fecha, sin embargo el tamaño de los lugares en los que se presentó el último año[7] no hace eco de esta diferencia teniendo en cuenta la frecuencia de las apariciones y la capacidad de los lugares.
 
+![lion_reggae_vs_providencia](./images/lion_reggae_&_providencia.png)
 Gráfico 1: Apariciones de Lion Reggae vs. Providencia
 
 
@@ -59,6 +60,7 @@ Para el desarrollo de la herramienta se busca apelar a mecanismos de colaboraci�
 
 Id – Venue – Event – Date – Capacity – Occupation – Price – Lineup –  Address – Start - End	 – Founder – Headliner – City - X- Y
 
+![Interfaz de geojson.io](./images/geoJson.png)
 Gráfico 2: Interfaz de geojson.io
 
  Fuente: Construcción propia
@@ -66,7 +68,7 @@ Gráfico 2: Interfaz de geojson.io
 El mapa es almacenado en la plataforma GitHub que permite llevar un control histórico de versiones y tener aportes de manera distribuida. De esta manera cada colaborador tiene una copia y actualiza el repositorio de apariciones de proyectos musicales que es el que centraliza la información.
 Ver: https://github.com/son0p/apariciones_proyectos_musicales
 
-
+![Interfaz GitHub](./images/ui_github.png)
 Gráfico 3: Repositorio GitHub
 
 
@@ -97,6 +99,8 @@ Este tipo de información, y toda aquella que pueda ser útil a los managers y c
 
 ### Estudio de caso 2: Comparar un proyecto musical emergente con un artista masivo
 De manera rápida se comparó el desempeño de un artista masivo como Fonseca y un grupo emergente como Laura y la Máquina de escribir, se puede  ver su posición dentro del enjambre y notar sus variaciones.
+![Laura y la Máquina de Escribir vs. Fonseca](./images/timeline_fonseca_laura_y_la_maquina_de_escribir.png)
+
 Gráfico 5: Comparación artistas emergentes con artista masivo
 
 Fuente: Construcción propia
@@ -104,7 +108,7 @@ A continuación se muestran las presentaciones de los grupos seleccionados ubica
 
 
 
-
+![Algunos grupos independientes comparados con artista masivo](./images/mapa_grupos_indie_&_fonseca.png)
 
 Gráfico 6: Ubicación de las presentaciones
 
