@@ -87,7 +87,7 @@ Para el caso de estudio se tomó la información de apariciones en vivo del últ
 
 
 
-
+![Apariciones Laura y la Máquina de Escribir](./images/apariciones_laura_y_la_maquina_de_escribir.png )
 
 Gráfico 4: Apariciones Laura y la máquina de escribir – grupos similares
 
@@ -99,14 +99,13 @@ Este tipo de información, y toda aquella que pueda ser útil a los managers y c
 
 ### Estudio de caso 2: Comparar un proyecto musical emergente con un artista masivo
 De manera rápida se comparó el desempeño de un artista masivo como Fonseca y un grupo emergente como Laura y la Máquina de escribir, se puede  ver su posición dentro del enjambre y notar sus variaciones.
+
 ![Laura y la Máquina de Escribir vs. Fonseca](./images/timeline_fonseca_laura_y_la_maquina_de_escribir.png)
 
 Gráfico 5: Comparación artistas emergentes con artista masivo
 
 Fuente: Construcción propia
 A continuación se muestran las presentaciones de los grupos seleccionados ubicados en el mundo, el radio del círculo da cuenta de la capacidad del lugar y el color de la agrupación (Se incluye Fonseca para comparar con un artista masivo)
-
-
 
 ![Algunos grupos independientes comparados con artista masivo](./images/mapa_grupos_indie_&_fonseca.png)
 
@@ -116,61 +115,13 @@ Fuente: Construcción propia
 ### Estudio de caso 3: Construcción de un  Indicador de crecimiento a partir de  apariciones en el territorio
 Para este estudio se relacionan los tamaños de los lugares y la frecuencia de las presentaciones en un período determinado para obtener una curva que permite evaluar la manera como se está desarrollando el proyecto en el tiempo. Se ajusta la tensión para lograr  una curva más suave que nos muestre mejor una tendencia.
 
-
-
-
-
-
-
+![Tendencia Fonseca](./images/fonseca_normalizacion_tendencia.png)
 
 Gráfico 7: Tendencia extraída de las apariciones de Fonseca - Generada con datos desde el repositorio de Github
 
-
-
 Fuente: Construcción propia
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Gráfico 8: Tendencia extraída de las apariciones de Laura y la máquina de escribir interpolación loess, span=0.4
-
-Fuente: Construcción propia
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Comparación Tendencias](./images/comparacion_tendencias_varios_proyectos.png)
 
 Gráfico 9: Tendencias de proyectos seleccionados
 
